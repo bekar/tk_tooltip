@@ -5,7 +5,7 @@ it is based on IDLE's ToolTip module.
 
 ![screenshot][screenshot]
 
-Original Source: [http://tkinter.unpythonic.net/wiki/ToolTip][http://tkinter.unpythonic.net/wiki/ToolTip]
+Original Source: [http://tkinter.unpythonic.net/wiki/ToolTip](http://tkinter.unpythonic.net/wiki/ToolTip)
 
 [screenshot]:
 http://tkinter.unpythonic.net/wiki/ToolTip?action=AttachFile&do=get&target=tooltip.png
